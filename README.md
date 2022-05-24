@@ -1,3 +1,4 @@
+theanonhackuk@root~:whoami
 - 👋 Hi, I’m @theanonhackuk
 - 👀 I’m interested in reverse engeneering
 - 🌱 I’m currently learning botnet creation
@@ -8,7 +9,6 @@
 theanonhackuk/theanonhackuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-theanonhackuk@root~:whoami
 #
 theanonhackuk@root~: cat tip.txt
 #
