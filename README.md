@@ -1,8 +1,8 @@
 theanonhackuk@root~:whoami
-- 👋 Hi, I’m @theanonhackuk
-- 👀 I’m interested in reverse engeneering
-- 🌱 I’m currently learning botnet creation
-- 💞️ I’m looking to collaborate on rat software edition
+-  Hey whatsup?, I’m @theanonhackuk
+-  I’m interested in reverse engeneering
+-  I’m currently learning botnet creation
+-  Im looking to collaborate on rat software creation
 - 📫 To contact with me pm me in telegram @theanonhackuk
 
 <!---
